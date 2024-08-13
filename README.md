@@ -1,2 +1,1 @@
-# cyrus-baruc-portfolio
-Data Analytics Portfolio
+<iframe title="Revenue Analytics" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=d6775d75-a116-4448-b407-5f5f13e8e598&autoAuth=true&ctid=62aa3f5a-2a57-46e8-b43c-ea3e2fddf242" frameborder="0" allowFullScreen="true"></iframe>
